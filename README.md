@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🌱 My name is Diego, a pleasure.
+- 🌱 My name is Diego and I am a physics student. A pleasure.
 - 🔭 I'm on my way to learn data science, machine learning and artificial intelligence!
 - 🤔 I’m currently working on a program that searches for Sheldon's prime numbers.
 - ⚡ You can reach me at: @
