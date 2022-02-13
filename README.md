@@ -1,4 +1,6 @@
 ### Hi there 👋
+- 🌱 My name is Diego, a pleasure.
+- 🔭 I'm on my way to learn data science, machine learning and artificial intelligence
 
 <!--
 **EnerDF/EnerDF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
